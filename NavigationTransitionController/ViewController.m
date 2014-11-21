@@ -19,6 +19,7 @@
 {
     [super viewDidLoad];
     NSString *abc;
+    NSDictionary *abcd;
     //ewfadkjfhsdakljfhsdalkjfhsalkj
 }
 
